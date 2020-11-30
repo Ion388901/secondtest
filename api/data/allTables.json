@@ -1,0 +1,100 @@
+{
+  "tables": [
+    {
+      "name": "CDT-101",
+      "capacity": 5,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-102",
+      "capacity": 5,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-103",
+      "capacity": 5,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-104",
+      "capacity": 6,
+      "isAvailable": true,
+      "professor": "Sergio Urbina"
+    },
+    {
+      "name": "CDT-105",
+      "capacity": 7,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-106",
+      "capacity": 2,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-107",
+      "capacity": 2,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-108",
+      "capacity": 3,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-109",
+      "capacity": 5,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-110",
+      "capacity": 4,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-111",
+      "capacity": 3,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-112",
+      "capacity": 5,
+      "isAvailable": true,
+      "professor": "Sergio Urbina"
+    },
+    {
+      "name": "CDT-113",
+      "capacity": 2,
+      "isAvailable": true,
+      "professor": "Pedro Lopez"
+    },
+    {
+      "name": "CDT-114",
+      "capacity": 3,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-115",
+      "capacity": 7,
+      "isAvailable": true,
+      "professor": "Maria Hernandez"
+    },
+    {
+      "name": "CDT-116",
+      "capacity": 2,
+      "isAvailable": true,
+      "professor": "Sergio Urbina"
+    }
+  ]
+}
